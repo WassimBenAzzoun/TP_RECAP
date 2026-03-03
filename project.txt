@@ -1,1 +1,2 @@
 This is modification for soft reset, line one changed
+feature also modified project.txt
